@@ -24,7 +24,8 @@ osmosisd init my-node --chain-id my-chain
 ```
 
 4. Create key for your validator account
-```sh osmosisd keys add my-account --keyring-backend=test
+```sh
+osmosisd keys add my-account --keyring-backend=test
 ```
 Daemon uses keychains to manage keys: the keyring-backend test flag enables us to use the keyrings in the test mode
 
