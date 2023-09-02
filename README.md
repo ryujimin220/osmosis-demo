@@ -75,5 +75,5 @@ osmosisd tx distribution withdraw-rewards osmovaloper155248g4ck8ugjqjgapk4zn0arn
 
 ## 11. Check my balance (after claiming my rewards)
 ```sh
-osmosisd q bank balances osmo155248g4ck8ugjqjgapk4zn0arnjt6sepsn4zgq
+osmosisd query bank balances osmo155248g4ck8ugjqjgapk4zn0arnjt6sepsn4zgq
 ```
